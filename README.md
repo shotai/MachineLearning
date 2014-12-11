@@ -3,11 +3,11 @@ MachineLearning
 
 MachineLearningAlgorithmCode
 
-<h1>Decision Tree</h1>
+<h2>Decision Tree</h2>
 
 Writing with Java, dealing with Spam data and House data
 
 
-<h1>Normal Equations</h1>
+<h2>Normal Equations</h2>
 
 Wring with Matlab, dealing with Spam data.
