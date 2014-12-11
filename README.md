@@ -23,6 +23,23 @@ Wring with Matlab, dealing with Spam data and House data.
 Wring with Matlab, dealing with Spam data.
 
 
-<b>perceptron</b>
+<b>Perceptron</b>
 
 Wring with Matlab, dealing with Perceptron data.
+
+
+<b>Gaussian Discriminant Analysis</b>
+
+Wring with Matlab, dealing with Spam data.
+
+
+<b>Naive Bayes</b>
+
+Wring with Matlab, dealing with Spam data.
+Using Bernoulli, Gaussain, Histogram with 4 bins, Histogram with 9 bins.
+
+
+<b>EM</b>
+
+Wring with Matlab, dealing with Spam data.
+With 2 Gaussian and 3 Gaussian.
