@@ -53,3 +53,8 @@ Writing with Matlab, dealing with Spam data.
 <b>AdaBoosting with Optimal select Decision Stumps</b>
 
 Writing with Matlab, dealing with Spam data.
+
+
+<b>Bagging with Decision Tree</b>
+
+Writing with Java, dealing with Spam data.
