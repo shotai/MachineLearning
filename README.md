@@ -43,3 +43,13 @@ Using Bernoulli, Gaussain, Histogram with 4 bins, Histogram with 9 bins.
 
 Writing with Matlab, dealing with Spam data.<br/>
 With 2 Gaussian and 3 Gaussian.
+
+
+<b>AdaBoosting with random select Decision Stumps</b>
+
+Writing with Matlab, dealing with Spam data.
+
+
+<b>AdaBoosting with Optimal select Decision Stumps</b>
+
+Writing with Matlab, dealing with Spam data.
