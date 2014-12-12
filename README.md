@@ -62,6 +62,6 @@ Writing with Java, dealing with Spam data.
 
 <b>Dual Perceptron</b>
 
-Writing with Matlab, dealing with perceptron data and dual perceptron data.<br/>
+Writing with Matlab, dealing with perceptron data and two Spirals data.<br/>
 Using Gaussian and Dot product kernel.
 
