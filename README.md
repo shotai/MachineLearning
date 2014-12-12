@@ -58,3 +58,10 @@ Writing with Matlab, dealing with Spam data.
 <b>Bagging with Decision Tree</b>
 
 Writing with Java, dealing with Spam data.
+
+
+<b>Dual Perceptron</b>
+
+Writing with Matlab, dealing with perceptron data and dual perceptron data.<br/>
+Using Gaussian and Dot product kernel.
+
